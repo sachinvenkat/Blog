@@ -1,2 +1,2 @@
 # Blog
-Blog runnig in Django
+Blog running in Django
